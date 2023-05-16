@@ -17,6 +17,8 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScrypt-333333?style=flat&logo=typescript&logoColor=#3178C6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=43853D)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%2B%2B&logoColor=512BD4)
   ![DotNet](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet&logoColor=512BD4)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
