@@ -4,10 +4,10 @@
 
 
 - 🤔 &nbsp; Desenvolvendo soluções de software e explorando novas tecnologias
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Full Stack** na <a href="wecodes.com.br">WeCodes Software House</a>
+- 💼 &nbsp; Trabalhando como **Assistant Product Engineer** na <a href="omni.chat">OmniChat</a>
 - 🎓 &nbsp; **Engenheiro** graduado na <a href="https://www.pucgoias.edu.br/politecnica/a-escola/">Escola Politécnica da PUC-GO</a>.
-- 🌱 &nbsp; Atualmente aprendendo mais sobre **Bancos de dados, plataforma .Net e Back-ends altamente performáticos**.
-- 💭: &nbsp; Buscando um projeto open-source interessante para me tornar contribuidor.
+- 🌱 &nbsp; Atualmente aprendendo mais sobre **NodeJS, AngularJS, Redis, filas, AWS e microsservices altamente performáticos**.
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
