@@ -2,11 +2,11 @@
 <h3> 👨‍💻 &nbsp;Sobre mim </h3>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-
-- 🤔 &nbsp; Desenvolvendo soluções de software e explorando novas tecnologias
-- 💼 &nbsp; Trabalhando como **Product Engineer** na <a href="omni.chat">OmniChat</a>
+- 🤔 &nbsp; Desenvolvendo soluções de software e explorando novas tecnologias.
+- 💼 &nbsp; Trabalhando como **Product Engineer** na <a href="https://omni.chat">OmniChat</a>.
 - 🎓 &nbsp; **Engenheiro** graduado na <a href="https://www.pucgoias.edu.br/politecnica/a-escola/">Escola Politécnica da PUC-GO</a> e FullCycle Engineer formado na <a href="https://fullcycle.com.br">Full Cycle</a>.
 - 🌱 &nbsp; Atualmente aprendendo mais sobre **microsservices altamente performáticos e arquitetura de software**.
+- 📚 &nbsp; Apaixonado por novos conhecimentos, busco estudar e evoluir todos os dias.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -14,12 +14,12 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScrypt-333333?style=flat&logo=typescript&logoColor=#3178C6)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=#3178C6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   
   ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=43853D)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%2B%2B&logoColor=512BD4)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=512BD4)
   ![DotNet](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet&logoColor=512BD4)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
