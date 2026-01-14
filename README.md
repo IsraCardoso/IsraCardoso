@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Desenvolvendo soluções de software e explorando novas tecnologias
 - 💼 &nbsp; Trabalhando como **Product Engineer** na <a href="omni.chat">OmniChat</a>
 - 🎓 &nbsp; **Engenheiro** graduado na <a href="https://www.pucgoias.edu.br/politecnica/a-escola/">Escola Politécnica da PUC-GO</a>.
-- 🌱 &nbsp; Atualmente aprendendo mais sobre **NodeJS, AngularJS, Redis, filas, AWS e microsservices altamente performáticos**.
+- 🌱 &nbsp; Atualmente aprendendo mais sobre **microsservices altamente performáticos e arquitetura de software**.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
