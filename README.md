@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Desenvolvendo soluções de software e explorando novas tecnologias
 - 💼 &nbsp; Trabalhando como **Product Engineer** na <a href="omni.chat">OmniChat</a>
-- 🎓 &nbsp; **Engenheiro** graduado na <a href="https://www.pucgoias.edu.br/politecnica/a-escola/">Escola Politécnica da PUC-GO</a>.
+- 🎓 &nbsp; **Engenheiro** graduado na <a href="https://www.pucgoias.edu.br/politecnica/a-escola/">Escola Politécnica da PUC-GO</a> e FullCycle Engineer formado na <a href="https://fullcycle.com.br">Full Cycle</a>.
 - 🌱 &nbsp; Atualmente aprendendo mais sobre **microsservices altamente performáticos e arquitetura de software**.
 
 
