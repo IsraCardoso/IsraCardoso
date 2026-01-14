@@ -1,12 +1,15 @@
 <h2> 👋 &nbsp;Hello world! </h2>
+
+**Software Engineer at @OmniChat. Happily coding from home** 🏠
+
 <h3> 👨‍💻 &nbsp;Sobre mim </h3>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - 🤔 &nbsp; Desenvolvendo soluções de software e explorando novas tecnologias.
 - 💼 &nbsp; Trabalhando como **Product Engineer** na <a href="https://omni.chat">OmniChat</a>.
-- 🎓 &nbsp; **Engenheiro** graduado na <a href="https://www.pucgoias.edu.br/politecnica/a-escola/">Escola Politécnica da PUC-GO</a> e FullCycle Engineer formado na <a href="https://fullcycle.com.br">Full Cycle</a>.
-- 🌱 &nbsp; Atualmente aprendendo mais sobre **microsservices altamente performáticos e arquitetura de software**.
-- 📚 &nbsp; Apaixonado por novos conhecimentos, busco estudar e evoluir todos os dias.
+- 🎓 &nbsp; **Engenheiro** graduado pela <a href="https://www.pucgoias.edu.br/politecnica/a-escola/">PUC-GO</a> e FullCycle Engineer.
+- 🌱 &nbsp; Aprofundando meus conhecimentos em **Computer Science (CS), Software Engineering (SE), Software Architecture (SA) e AI**.
+- 📚 &nbsp; Apaixonado por novos conhecimentos, estudo e evoluo todos os dias.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
